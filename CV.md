@@ -1,12 +1,31 @@
-## My CV
+# My CV
 
-### Education
-Wilchester
-
+## Education
 Westchester
 
-Computer Science
+### Computer Science
+Computer Science I
 
-Advanced Mathematics 
+### Buisness Information and Management
+Buiness Information and Management
 
-Projects
+### Robotics
+Gateway II Automation and Robotics
+
+### Advanced Mathematics
+Algebra I, Geometry, Algebra II
+
+### English
+English I
+
+### Science
+Biology
+
+### Projects
+
+## Languages
+English
+
+Arabic
+
+French
