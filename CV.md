@@ -1,7 +1,7 @@
 # My CV
 
 ## Education
-Westchester
+### Westchester
 
 ### Computer Science
 Computer Science I
