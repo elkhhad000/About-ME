@@ -1,5 +1,8 @@
 # My CV
 
+## Contact Information
+hadikhansa09@gmail.com
+
 ## Education
 ### Westchester
 
